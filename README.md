@@ -1,6 +1,5 @@
-# go-365
-_i hate this name, but can't think of something less zucchini-y_  
-_need a more banana bread name_
+# go-all-the-way
+_just rewatched guards of the gals_
 
 ## Month 1: Foundations (Days 1-31)
 
